@@ -1,4 +1,9 @@
 ## Welcome to GitHub Pages
+# Mason Zhao's First CS193 Homework
+
+Reason I like CS 193
+- Nice TA
+- Easy homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
